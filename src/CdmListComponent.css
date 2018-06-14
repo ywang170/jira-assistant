@@ -1,0 +1,11 @@
+.cdm{
+	text-align: center;
+	width: 610px;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin:10px;
+  	background-color: rgb(240, 255, 255);
+  	border-radius: 10px;
+  	color: gray;
+}
